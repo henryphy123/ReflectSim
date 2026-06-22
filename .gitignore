@@ -1,0 +1,29 @@
+# Tests
+tests/
+
+# Run outputs
+runs/
+
+# Documentation
+docs/
+
+# Local Claude settings
+.claude/
+
+# README (not yet ready to publish)
+README.md
+
+# Source asset cache
+src/three_d_agent/assets/cache/
+
+# Virtualenv
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor / OS
+.DS_Store
+Thumbs.db
