@@ -10,9 +10,6 @@ docs/
 # Local Claude settings
 .claude/
 
-# README (not yet ready to publish)
-README.md
-
 # Source asset cache
 src/three_d_agent/assets/cache/
 
